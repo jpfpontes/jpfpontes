@@ -4,14 +4,13 @@ My name is João Pedro, 21, a Software Developer and currently studying Computer
 
 Feel free to contact me: ✉ jpfpontes21@gmail.com
 
-<!--
 ### 📊 My Github Stats
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpfpontes&count_private=true&show_icons=true&theme=radical)&nbsp;
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jpfpontes&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpfpontes&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 
 ### 🛠 Languages and Tools
 ---

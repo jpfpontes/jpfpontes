@@ -1,6 +1,6 @@
 # Welcome 👋
 
-My name is João Pedro, 21, a Software Developer and currently studying Computer Engineering at Federal University of São Paulo.
+My name is João Pedro, 22, a Software Developer and currently studying Computer Engineering at Federal University of São Paulo.
 
 Feel free to contact me: ✉ jpfpontes21@gmail.com
 
